@@ -2,31 +2,28 @@
 
 <h2>INTRODUCTION:</h2>
 
-Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers. They are designed and made to clear the dust, water, fog, mist from the windshield and give driver a better and clear vision of the road ahead. The parts are visible from outside the car. It has a rubber blade made of silicon, wiper arm attached to the silicon blade, extendable linkage, pivots. Existing system used manually used to activate the wiper and the process of pulling up wiper and the driver needs to switch ON and OFF the control system.
+The proposed project is an automatic wiper system that automatically switches ON when it detects rain and switches OFF when rain stops.
+The concept of the wiper system is similar with other conventional wiper, yet this will be upgraded to an automatic control system by using a controller.
+Whenever the water hit a dedicated sensor which is located on windshield, it will send a signal to move on the wiper motor through the controller. Once water or other particles is not detected by the sensor, the wiper will automatically stop.This will help the driver to concentrate more on driving and reduce the car accident probability.
 
-<h2>OBJECTIVES:</h2>
-
-* To design and implement a new mechanism to cover the area of automobile's windshield.
-* The purpose of the wiper system is to clean the windshield effectively to provide clear vision for the driver.
-* The system contains a microcontroller that takes input signals from the sensor and controls the operation.
 
 <h1>4W's AND 1H:</h1>
 
 <h2>WHAT:</h2>
 
-* The windshield wiper sontrol system consists of wipers and wiper arms
+* Windshield wiper sontrol system[WCS]
 
 <h2>WHEN:</h2>
 
-* It can be used when there is rainfall, cleaning the winshield after a long time, dusty conditions etc.
+* It can be used when times is rainfall and other particles
 
 <h2>WHERE:</h2>
 
-* It is used to remove water, dirt, dust, smoke, fog, mist etc.
+* It is used in Car
 
 <h2>WHO:</h2>
 
-* It is used by the drivers of heavy automobiles and domestic 4-wheelers.
+* It is used by the drivers of automobiles
 
 <h2>HOW:</h2>
 

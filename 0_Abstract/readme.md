@@ -1,6 +1,6 @@
 # ABSTRACT OF THE PROJECT
  
-        In automobiles,Wiper is an essential component that is used to wipe out the raindrops or any unwanted material fragments 
+     In automobiles,Wiper is an essential component that is used to wipe out the raindrops or any unwanted material fragments 
 from the windshield present in front.Practically all motorized vehicles features windshield wipers.Most of the cars have two wipers 
 on the windscreen, one on the rear window and the other on each headlight.The wiper serves to clean the windshield of the car at the
 front and rear, although not all cars have wipers on the rear side.Wiper works by removing oil, dust, rainwater, and dirt that get 

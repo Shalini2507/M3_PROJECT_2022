@@ -1,5 +1,5 @@
 
-# TEST CASES and Corresponding Output
+# TEST CASES and Output
 
 ## High Level Testcases
 | ID | Description | Expected output | Actual output | STATUS |

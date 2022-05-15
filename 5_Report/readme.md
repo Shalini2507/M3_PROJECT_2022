@@ -1,7 +1,8 @@
 # WIPER CONTROL SYSTEM
 
 # INTRODUCTION
-         The Wiper was invented by Mark Anderson on 1902.A wiper is a necessary component that cleans raindrops or any other liquid off the vehicle's windscreen.
+
+The Wiper was invented by Mark Anderson on 1902.A wiper is a necessary component that cleans raindrops or any other liquid off the vehicle's windscreen.
 The prior system required manual wiper activation,by changing the frequency as its results the operation of bringing up the wiper speed is varied . 
 The project's goals are to improve ageing car systems by giving automated wiping system to improve the system by incorporating a sensor and actuator, and to
 create a simple software that would completely operate with the system. This proposed wiper system's principle is comparable to those of other existing 
@@ -21,6 +22,7 @@ conventional wipers. Despite the fact that. This system will be upgraded to an a
   -This Microcontroller is utilised in printing and scanning machines ,heat ventilation, air conditioning, and security systems. 
  
 # WORKING PRINCIPLE
+
     Wiper system is automatically ON during the time of rainfall. The senor is fixed in the vehicle glass. The conductive (Touch) sensor is used in this project.
 It senses the rainfall and giving control signal to the control unit. The control unit activates the wiper motor automatically. Assume that the automobile is
 the microcontroller. If the button is hit, the first led (red) will turn on, Clicking again  the wiper will start, and the second led (blue) will turn on for

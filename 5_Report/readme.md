@@ -1,7 +1,11 @@
 # WIPER CONTROL SYSTEM
 
 # INTRODUCTION
-         The Wiper was invented by Mark Anderson on 1902.A wiper is a necessary component that cleans raindrops or any other liquid off the vehicle's windscreen. The prior system required manual wiper activation,by changing the frequency  As its results the operation of bringing up the wiper speed is varied . The project's goals are to improve ageing cars' systems by giving automated transmission.wiping system, to improve the system by incorporating a sensor and actuator, and to create a simple software that would completely operate with the system.the framework This proposed wiper system's principle is comparable to those of other existing conventional wipers. Despite the fact that. This system will be upgraded to an automatic control system using a Peripheral Interface to remove water from the windscreen.The operational speed of a wiper is controlled by a wiper speed control system in accordance with frequencies. The pulse signal is digitally processed to provide a control signal. A wiper driver circuit receives the control signal and adjusts the operational speed or timing in line with it.
+         The Wiper was invented by Mark Anderson on 1902.A wiper is a necessary component that cleans raindrops or any other liquid off the vehicle's windscreen.
+The prior system required manual wiper activation,by changing the frequency as its results the operation of bringing up the wiper speed is varied . 
+The project's goals are to improve ageing car systems by giving automated wiping system to improve the system by incorporating a sensor and actuator, and to
+create a simple software that would completely operate with the system. This proposed wiper system's principle is comparable to those of other existing 
+conventional wipers. Despite the fact that. This system will be upgraded to an automatic control system using a Peripheral Interface to remove water from the windscreen.The operational speed of a wiper is controlled by a wiper speed control system in accordance with frequencies. The pulse signal is digitally processed to provide a control signal. A wiper driver circuit receives the control signal and adjusts the operational speed or timing in line with it.
 ## SOFTWARE REQUIREMENTS
   STM32 CUBE IDE
 ## COMPONENTS USED
@@ -17,7 +21,12 @@
   -This Microcontroller is utilised in printing and scanning machines ,heat ventilation, air conditioning, and security systems. 
  
 # WORKING PRINCIPLE
-    Wiper system is automatically ON during the time of rainfall. The senor is fixed in the vehicle glass. The conductive (Touch) sensor is used in this project. It senses the rainfall and giving control signal to the control unit. The control unit activates the wiper motor automatically. Assume that the automobile is the microcontroller. If the button is hit, the first led (red) will turn on, Clicking again  the wiper will start, and the second led (blue) will turn on for a desired rate. If the button is pressed again, the third led (green) will turn on, and the wiper's speed will be increased in comparison to the previous one. The fourth press will turn on the fourth led (orange), and the wiper speed will be increased in accordance with the previous one. The microcontroller (vehicle) is turned off after the fifth click.
+    Wiper system is automatically ON during the time of rainfall. The senor is fixed in the vehicle glass. The conductive (Touch) sensor is used in this project.
+It senses the rainfall and giving control signal to the control unit. The control unit activates the wiper motor automatically. Assume that the automobile is
+the microcontroller. If the button is hit, the first led (red) will turn on, Clicking again  the wiper will start, and the second led (blue) will turn on for
+a desired rate. If the button is pressed again, the third led (green) will turn on, and the wiper's speed will be increased in comparison to the previous one.
+The fourth press will turn on the fourth led (orange), and the wiper speed will be increased in accordance with the previous one. The microcontroller (vehicle) 
+is turned off after the fifth click.
 
 ## SWOT Analysis
 

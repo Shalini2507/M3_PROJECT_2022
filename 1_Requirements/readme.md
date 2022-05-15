@@ -1,4 +1,4 @@
-<h1>BASIC REQUIREMENTS:</h1>
+<h1>BASIC REQUIREMENTS OF THE PROJECT:</h1>
 
 <h2>INTRODUCTION:</h2>
 
@@ -49,7 +49,7 @@ Whenever the water hit a dedicated sensor which is located on windshield, it wil
 		<tbody>
 			<tr>
 				<td>&nbsp;1</td>
-				<td>Programming Language used&nbsp;</td>
+				<td>Programming Language &nbsp;</td>
 				<td>C Language&nbsp;</td>
 				<td>Implemented&nbsp;</td>
 			</tr>
@@ -58,12 +58,6 @@ Whenever the water hit a dedicated sensor which is located on windshield, it wil
 				<td>ARM based Microcontroller&nbsp;</td>
 				<td>STM32 Discovery kit&nbsp;</td>
 				<td>&nbsp;Implemented&nbsp;</td>
-			</tr>
-			<tr>
-				<td>&nbsp;3</td>
-				<td>Operating System&nbsp;</td>
-				<td>Windows&nbsp;</td>
-				<td><span style="font-style: normal; font-weight: 400;">Implemented&nbsp;</span>&nbsp;</td>
 			</tr>
 			<tr>
 				<td>&nbsp;4</td>

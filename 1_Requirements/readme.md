@@ -77,38 +77,4 @@ Whenever the water hit a dedicated sensor which is located on windshield, it wil
 </html>
 
 
-<h2>LOW LEVEL REQUIREMENTS:</h2>
 
-
-</head>
-<body>
-	<table>
-		<thead>
-			<tr>
-				<th>S.NO</th>
-				<th>SYSTEM REQUIREMETS</th>
-				<th>STATUS</th>
-			</tr>
-		</thead>
-		<tbody>
-			
-			<tr>
-				<td>&nbsp;2</td>
-				<td>Press wiper button&nbsp;</td>
-				<td>&nbsp;Implemented</td>
-			</tr>
-			<tr>
-				<td>&nbsp;3</td>
-				<td>Microcontroller supply</td>
-				<td><span style="font-style: normal; font-weight: 400;">Implemented</span><br></td>
-			</tr>
-			<tr>
-				<td>&nbsp;4</td>
-				<td>Activatation of wiper blades</td>
-				<td><span style="font-style: normal; font-weight: 400;">Implemented</span><br></td>
-			</tr>
-			
-		</tbody>
-	</table>
-</body>
-</html>

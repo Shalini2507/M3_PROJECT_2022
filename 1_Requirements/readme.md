@@ -91,14 +91,10 @@ Whenever the water hit a dedicated sensor which is located on windshield, it wil
 			</tr>
 		</thead>
 		<tbody>
-			<tr>
-				<td>&nbsp;1</td>
-				<td>ON</td>
-				<td>Implemented</td>
-			</tr>
+			
 			<tr>
 				<td>&nbsp;2</td>
-				<td>Press wiper switch&nbsp;</td>
+				<td>Press wiper button&nbsp;</td>
 				<td>&nbsp;Implemented</td>
 			</tr>
 			<tr>
@@ -108,14 +104,10 @@ Whenever the water hit a dedicated sensor which is located on windshield, it wil
 			</tr>
 			<tr>
 				<td>&nbsp;4</td>
-				<td>Activate wiper blades</td>
+				<td>Activatation of wiper blades</td>
 				<td><span style="font-style: normal; font-weight: 400;">Implemented</span><br></td>
 			</tr>
-			<tr>
-				<td>&nbsp;5</td>
-				<td>OFF</td>
-				<td><span style="font-style: normal; font-weight: 400;">Implemented</span>&nbsp;</td>
-			</tr>
+			
 		</tbody>
 	</table>
 </body>
